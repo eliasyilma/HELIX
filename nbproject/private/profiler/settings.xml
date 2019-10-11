@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="org.netbeans.modules.profiler.v2.features.MonitorFeature_UI_MEM_GRAPH_FLAG">false</entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_FILTER_CALLS_FLAG">NO_FILTER</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_SELECTION_FLAG">test3d.columnDesignCheck,*, test3d.SectionInfoDialog,*, test3d.ShearResist,*, test3d.SectionInfoFX,*, SAM3Dv2.Member3,*, test3d.BiaxialInteract,*, test3d.ShearTorsion,*, test3d.SparseArray,*, test3d.biaxialMod,*, test3d.beamDesignCheck,*, test3d.drawerDemoMod,*, test3d.WireframeViewer,*, test3d.memberPanel,*, test3d.VandMPanel,*, SAM3Dv2.Structure3,*, </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">SelectedClassesMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+</properties>
